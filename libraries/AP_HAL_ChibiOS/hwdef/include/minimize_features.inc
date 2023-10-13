@@ -13,7 +13,7 @@ define HAL_HIGH_LATENCY2_ENABLED 0
 define HAL_CRSF_TELEM_ENABLED 0
 
 # Gripper isn't a vital feature for smaller boards -- but there is one on low end Baudoin's HEXA so I keep it
-# define AP_GRIPPER_ENABLED 1
+define AP_GRIPPER_ENABLED 1
 
 # Sprayer isn't a vital feature for smaller boards
 define HAL_SPRAYER_ENABLED 0
